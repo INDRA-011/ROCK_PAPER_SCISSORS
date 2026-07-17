@@ -1,0 +1,6 @@
+# python fields:
+-backend development
+-ai
+-ml
+-app development 
+
